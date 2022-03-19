@@ -1,0 +1,11 @@
+.img-rect {
+  border: 2px solid black;
+}
+
+.product {
+  width: 350px;
+  border: 1px inset grey;
+  margin: 10px;
+  padding-top: 11px;
+  text-align: center;
+}
